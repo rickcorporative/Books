@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Head First Java: A Brain-Friendly Guide",
+    "isBestSeller": true
+  },
+  {
+    "title": "OCP Oracle Certified Professional Java SE 21 Developer Study Guide: Exam 1Z0-830 (Sybex Study Guide)",
+    "isBestSeller": false
+  },
+  {
+    "title": "Java from Zero: Learn Java Programming Fast for Beginners to Professionals: The Complete Guide with Code Examples and Exercises to Become a Professional",
+    "isBestSeller": false
+  },
+  {
+    "title": "Java All-in-One For Dummies",
+    "isBestSeller": false
+  },
+  {
+    "title": "Java: The Complete Reference, Thirteenth Edition",
+    "isBestSeller": true
+  },
+  {
+    "title": "Effective Java",
+    "isBestSeller": false
+  },
+  {
+    "title": "Core Java, Volume I: Fundamentals (Oracle Press for Java)",
+    "isBestSeller": false
+  },
+  {
+    "title": "Learning Java: An Introduction to Real-World Programming with Java",
+    "isBestSeller": false
+  },
+  {
+    "title": "Learn Java the Easy Way: A Hands-On Introduction to Programming",
+    "isBestSeller": false
+  },
+  {
+    "title": "Java: The Comprehensive Guide to Java Programming for Professionals (Rheinwerk Computing)",
+    "isBestSeller": false
+  },
+  {
+    "title": "Learn Java with Projects: A concise practical guide to learning everything a Java professional really needs to know",
+    "isBestSeller": false
+  },
+  {
+    "title": "Core Java for the Impatient",
+    "isBestSeller": false
+  },
+  {
+    "title": "Modern Java in Action: Lambdas, streams, functional and reactive programming",
+    "isBestSeller": false
+  },
+  {
+    "title": "Java: A Beginner's Guide, Tenth Edition",
+    "isBestSeller": false
+  },
+  {
+    "title": "Java Coding Problems: Become an expert Java programmer by solving over 250 brand-new, modern, real-world problems",
+    "isBestSeller": false
+  },
+  {
+    "title": "Core Java, Volume II: Advanced Features (Oracle Press for Java)",
+    "isBestSeller": false
+  }
+]
